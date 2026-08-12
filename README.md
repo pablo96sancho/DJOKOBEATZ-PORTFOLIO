@@ -59,11 +59,11 @@ No requiere instalación de dependencias ni servidores complejos:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Pablo96sancho/PORTFOLIO.git
+   git clone https://github.com/Pablo96sancho/DJOKOBEATZ-PORTFOLIO.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd PORTFOLIO
+   cd DJOKOBEATZ-PORTFOLIO
    ```
 3. Abre `index.html` en tu navegador o utiliza extensiones como **Live Server** en VS Code.
 
@@ -78,7 +78,7 @@ Para publicar tu web gratis en GitHub Pages:
 1. Sube los cambios a la rama `main` en tu repositorio de GitHub.
 2. Ve a **Settings > Pages** en tu repositorio de GitHub.
 3. En **Source**, selecciona **GitHub Actions**.
-4. ¡Tu sitio estará disponible públicamente en `https://Pablo96sancho.github.io/PORTFOLIO/`!
+4. ¡Tu sitio estará disponible públicamente en `https://Pablo96sancho.github.io/DJOKOBEATZ-PORTFOLIO/`!
 
 _(Consulta la [GUIA_GITHUB.md](GUIA_GITHUB.md) para ver los comandos detallados)._
 
@@ -86,7 +86,8 @@ _(Consulta la [GUIA_GITHUB.md](GUIA_GITHUB.md) para ver los comandos detallados)
 
 ## 📧 Contacto & Redes
 
-- **Email:** `pablo96sancho@gmail.com`
+- **Email (Desarrollo & Ciberseguridad):** `pablo96sancho@gmail.com`
+- **Email (Producción Musical):** `djokobeatz@gmail.com`
 - **Instagram:** [@djokobeatz](https://www.instagram.com/djokobeatz/)
 - **YouTube:** [DJOKOBEATZ Channel](https://www.youtube.com/@DJOKOBEATZ/featured)
 - **Beatstars:** [djokobeatz](https://www.beatstars.com/djokobeatz)

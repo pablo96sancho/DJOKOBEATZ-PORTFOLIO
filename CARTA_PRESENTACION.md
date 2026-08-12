@@ -51,7 +51,7 @@ Le escribo para manifestar mi interés en la posición de [Nombre del Puesto, ej
 
 Cuento con una trayectoria de más de 8 años como Productor Musical e Ingeniero de Audio (DJOKOBEATZ), trabajando con artistas nacionales de primer nivel. Durante este tiempo, he desarrollado una capacidad excepcional para la gestión de proyectos, la resolución técnica de problemas y una rigurosa atención al detalle estético.
 
-Paralelamente, he trasladado esa pasión por la creatividad y la precisión al desarrollo web frontend (HTML5, CSS3, JavaScript), construyendo sitios interactivos modernos, responsivos y optimizados para la experiencia de usuario. Mi portfolio web está disponible en: https://Pablo96sancho.github.io/PORTFOLIO/
+Paralelamente, he trasladado esa pasión por la creatividad y la precisión al desarrollo web frontend (HTML5, CSS3, JavaScript), construyendo sitios interactivos modernos, responsivos y optimizados para la experiencia de usuario. Mi portfolio web está disponible en: https://Pablo96sancho.github.io/DJOKOBEATZ-PORTFOLIO/
 
 Estoy convencido de que mi perfil multidisciplinar, mi iniciativa y mi capacidad de adaptación aportarían un valor fresco y dinámico a su equipo.
 
