@@ -69,18 +69,10 @@ No requiere instalación de dependencias ni servidores complejos:
 
 ---
 
-## 🌐 Publicación en GitHub Pages
+## 🌐 Preview del Portfolio
 
-Este proyecto incluye un flujo de trabajo automático con **GitHub Actions** (`.github/workflows/deploy.yml`).
+https://Pablo96sancho.github.io/DJOKOBEATZ-PORTFOLIO/ !
 
-Para publicar tu web gratis en GitHub Pages:
-
-1. Sube los cambios a la rama `main` en tu repositorio de GitHub.
-2. Ve a **Settings > Pages** en tu repositorio de GitHub.
-3. En **Source**, selecciona **GitHub Actions**.
-4. ¡Tu sitio estará disponible públicamente en `https://Pablo96sancho.github.io/DJOKOBEATZ-PORTFOLIO/`!
-
-_(Consulta la [GUIA_GITHUB.md](GUIA_GITHUB.md) para ver los comandos detallados)._
 
 ---
 
